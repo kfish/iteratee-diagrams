@@ -6,6 +6,12 @@
     <object name="Iteratee - Enumerator">
       <description>Enumerator</description>
     </object>
+    <object name="Iteratee - Enumeratee">
+      <description>Enumeratee</description>
+    </object>
+    <object name="Iteratee - Iteratee">
+      <description>Iteratee</description>
+    </object>
  </contents>
 </sheet>
 
