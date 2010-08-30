@@ -25,6 +25,6 @@
   </connections>
   <textbox x1="0.5" y1="0.5" x2="10" y2="10"/>
   <svg:svg width="10" height="10">
-    <svg:polygon points="10,1 2,1 2,2 1,2 1,8 2,8 2,9 10,9" style="fill: default"/>
+    <svg:polygon points="9,0 1,0 1,1 0,1 0,7 1,7 1,8 9,8" style="fill: default"/>
   </svg:svg>
 </shape>
