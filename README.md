@@ -1,11 +1,11 @@
 iteratee-diagrams
 =================
 
-This is a small collection of shapes representing Iteratee[0] types, for use with
-the diagramming tool Dia[1].
+This is a small collection of shapes representing [Iteratee][0] types, for use with
+the diagramming tool [Dia][1].
 
-[0] http://okmij.org/ftp/Streams.html#iteratee
-[1] http://live.gnome.org/Dia
+[0]: http://okmij.org/ftp/Streams.html#iteratee
+[1]: http://live.gnome.org/Dia
 
 Installation
 ------------
@@ -18,15 +18,15 @@ are stored in the shapes directory.
 
 You can install these custom shapes into your user dia directory, usually ~/.dia:
 
-  $ cd iteratee-diagrams
-  $ mkdir -p ~/.dia/sheets && cp -r sheets/* ~/.dia/sheets
-  $ mkdir -p ~/.dia/shapes && cp -r shapes/* ~/.dia/shapes
+    $ cd iteratee-diagrams
+    $ mkdir -p ~/.dia/sheets && cp -r sheets/* ~/.dia/sheets
+    $ mkdir -p ~/.dia/shapes && cp -r shapes/* ~/.dia/shapes
 
 or into your system dia directory (usually /usr/share/dia).
 
 Then, start dia:
 
-  $ dia
+    $ dia
 
 A sheet called "Iteratee" will appear in the main dropdown menu among the existing
 sheets like Flowchart and Network.
